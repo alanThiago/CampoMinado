@@ -192,7 +192,7 @@ void Jogar(){
     }
 
     system("clear");
-    InserirBombasImpressao(n)
+    InserirBombasImpressao(n);
     ImprimirCampo(n);
     printf("PARABENS! VOCE VENCEU!\n");
 }
